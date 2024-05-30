@@ -1,0 +1,27 @@
+Naive Bayes model accuracy (in %): 87.3015873015873
+Enter your age: 20.5
+Enter integer value!
+Enter your age: 19
+Enter your gender (0-Male/1-Female): 55
+Enter valid input!
+Enter your gender (0-Male/1-Female): 1
+On scale 1-9 rate (1-lowest & 9-highest):
+1. Your openness / willingness to adjust according to different
+situations: 5.5
+Enter valid input!
+1. Your openness / willingness to adjust according to different
+situations: 5
+2. Your neuroticism / negative emotions: 7
+3. Your conscientiousness / being responsible, careful or diligent: 8
+4. Your agreeableness / ability to accept things: 4
+5. Your extraversion / ability to socialize: 2
+Predicted Personality: extraverted
+Being a person of extraverted personality type, you would enjoy reading
+the following book genres:
+-> Thrillers
+-> Adventure
+-> Romance (with strong social elements)
+-> Action and Adventure
+-> Mystery and Suspense
+-> Historical
+Happy Reading !!
