@@ -13,5 +13,5 @@ This project showcases the potential of machine learning in delivering customize
 It has the potential to make a positive impact on individuals' lives by promoting reading, fostering diversity and inclusion, supporting mental well-being, facilitating educational opportunities, building community, empowering self-discovery, and promoting accessibility and inclusivity in literature.
 
 # Tech Stack
-Python
+Python, 
 Machine Learning
